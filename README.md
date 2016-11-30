@@ -3,6 +3,8 @@
 These are the slides and notebooks for a guest lecture about Dask given to
 [Harvard CS207](https://iacs-cs207.github.io/cs207-2016/) on 11/30/16.
 
+Slides can be viewed [here](https://jcrist.github.io/harvard_cs207_talk/).
+
 The `dask_array` and `dask_dataframe` notebooks should be runnable locally,
 while the `dask_dataframe_cluster` notebook relies on some local data that
 isn't public.
