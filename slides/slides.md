@@ -10,6 +10,10 @@ Continuum Analytics
 
 *Harvard CS207, 11/30/16*
 
+~~~
+
+Materials can be found on github [here](https://github.com/jcrist/harvard_cs207_talk)
+
 ~===~
 
 ### In the beginning...
